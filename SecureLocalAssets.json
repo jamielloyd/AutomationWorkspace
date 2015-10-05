@@ -1,0 +1,24 @@
+{
+  "PSCredential": [
+    {
+      "Username": "jlbornsa@hotmail.com",
+      "Password": "1ufRHZJuGwNRBxODdFQ/2pmCFNMXygpOWW8sABT5yDLVRQHmlqgNtXPc6zmDxC+0AFsojqeeeAo+NHjeySkoF88rrnS8DijrcTgIZVWwzVwW22YRVKHkAN+JvapBOBBLcRV45BJYTXJvPuwNAXIX3gxbwKDL1qhE1t4ljkQZ1fy99xq0ryR17MvEa6R7w8WzJv3ANIVg94tqZ+wZxncMW4+kAbMo/iCi1QhxKAWtcPH78BAmkXD1SXD7yTi4EpT847IS7sDVbm/kBro4AdEP1tGdBNoscGh82aMYryYGBm/p4RgQU15/F8BYo//UUEw6j9YWjuNSLEBiyxWlj7Su0Q==",
+      "Name": "SmtpEmailCredential",
+      "LastModified": "2015-09-25 11:25:01Z"
+    },
+    {
+      "Username": "devAdmin@jlbornsahotmail.onmicrosoft.com",
+      "Password": "BjPuz2YkDvX2JnNqmHkzPgJlCOPWqGgpXXLoYRHHr0k5ZV1lMr1rdWE4htmjWGLNHENTAA8weSKEO07D3ITEbY18Mno5zsd0Zu87QoAzOnpJy7ALAlgOkAkMKUxgw23dmQvJ0hO8tVl14DY7ykKwNSeNpT+3QZvzbCDIZ2BDMwZFy8rOUzLgVR2mj4E+QvuRPVMNxzHN9zKTzb0OPGyYhuQyBD6RKrkeKrwOFgZ7k256lp/A1OKTXXS6VCWYkNRymqJ55JPMuvXCwTgB+6vKF1STE6+sLQSs/4J6dcGB+eLVEm/U6CHgQBvJ5U2o4xu0mHrwDLjf0Uqt+obHVxQo4A==",
+      "Name": "AzureOrgIdCredential",
+      "LastModified": "2015-09-25 14:52:57Z"
+    },
+    {
+      "Username": "jlbornsa@hotmail.com",
+      "Password": "yKLVKBhL3n3tL87OXrM/f6U5VpDR4juG3TG7f4Wv8xD3xDJfBtpZtKsO/jz3PAUN7i0ANsItAWlnnqukZ5+xen2gXcV31J3CNYHPDb1MnNnxxzsn3DL2e2OHcRAT+vhWP70iR/04FykCQbK5xaKLmkNLT7apL2bO29Mm7fAxnj15OGAqHHal8VvLZX48oozGbcjT98dMsp2oNyvfQKRMUDnfMM236TrC9Fa3gZBUaSYJAR+LynBXCBQVU6JPh3buxjYDHyR5UW8uliP4JZi+x/IBCbgMhtZ3+36M1tdLp5va9l1mP5DM9/6GMW6gmCTAKHeXFLNvV+VGtH4pL1TfGQ==",
+      "Name": "Cred2",
+      "LastModified": "2015-09-25 15:24:24Z"
+    }
+  ],
+  "Connection": [],
+  "Variable": []
+}

@@ -1,0 +1,16 @@
+{
+  "Variable": [
+    {
+      "Value": "Visual Studio Enterprise with MSDN",
+      "Encrypted": false,
+      "Name": "AzureSubscriptionName",
+      "LastModified": "2015-09-25 10:29:23Z"
+    },
+    {
+      "Value": "t-jafe-account2",
+      "Encrypted": false,
+      "Name": "AutomationAccountName",
+      "LastModified": "2015-09-28 09:27:42Z"
+    }
+  ]
+}
